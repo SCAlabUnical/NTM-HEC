@@ -13,7 +13,7 @@ NTM-HEC leverages corpus-specific hashtag embeddings to uncover coherent and div
 - **code/**:  
   Contains all the source files for the project:
   - **Main NTM-HEC implementation**:
-    - `topic_hec.py` – Implementation of the NTM-HEC methodology.
+    - `ntm-hec.py` – Implementation of the NTM-HEC methodology.
   - **Comparison baselines**:
     - `berTopic.py` – BERTopic model implementation.
     - `lda_.py` – Latent Dirichlet Allocation (LDA) baseline.
