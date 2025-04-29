@@ -39,10 +39,10 @@ NTM-HEC leverages corpus-specific hashtag embeddings to uncover coherent and div
 The datasets used in the experiments are publicly available:
 
 - **Russia-Ukraine Conflict Dataset**:  
-  [Kaggle - Ukraine Conflict Twitter Dataset (BwandoWando)](https://www.kaggle.com/datasets/bwandowando/ukraine-conflict-twitter-dataset)
+  [Kaggle - Ukraine Conflict Twitter Dataset (BwandoWando)](https://www.kaggle.com/dsv/8003074)
 
 - **COVID-19 Anti-Vax Dataset**:  
-  [Anti-Vax Twitter Dataset (Hayawi et al.)](https://doi.org/10.1016/j.puhe.2021.10.019)
+  [Anti-Vax Twitter Dataset (Hayawi et al.)]([https://doi.org/10.1016/j.puhe.2021.10.019](https://pmc.ncbi.nlm.nih.gov/articles/PMC8648668/))
 
 Please refer to the original article for detailed instructions on dataset preprocessing and monthly splits.
 
