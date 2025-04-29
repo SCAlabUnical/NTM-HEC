@@ -1,0 +1,9 @@
+path_data = "../data/"
+path_model = "../models/"
+file_name="tweets" # change whit "marzo" or "aprile" or "maggio" or "giugno"
+min_num_topic,max_num_topic,step=10,50,10
+top_words=15
+min_cluster_size=25
+show_words=25 
+w2v_min_count=5
+w2v_size=150
