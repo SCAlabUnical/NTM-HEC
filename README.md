@@ -2,7 +2,7 @@
 
 This repository contains the codebase and experimental setup for **NTM-HEC**, a novel hashtag-centric methodology for topic modeling in social media, introduced in the paper:
 
-> R. Cantini, C. Cosentino, F. Marozzo, D. Talia, and P. Trunfio, *Neural Topic Modeling in Social Media by Clustering Latent Hashtag Representations*, University of Calabria, 2025.
+> Cantini, R., Cosentino, C., Marozzo, F., Talia, D., & Trunfio, P. (2025, October). *Neural topic modeling in social media by clustering latent hashtag representations*. In 28th European Conference on Artificial Intelligence, ECAI-25. To appear.
 
 NTM-HEC leverages corpus-specific hashtag embeddings to uncover coherent and diverse topic structures from social media content.
 
@@ -87,11 +87,13 @@ This approach improves topic coherence, diversity, and robustness against lingui
 If you use this repository, please cite:
 
 ```bibtex
-@article{Cantini2025NTMHEC,
-  title={Neural Topic Modeling in Social Media by Clustering Latent Hashtag Representations},
-  author={Riccardo Cantini and Cristian Cosentino and Fabrizio Marozzo and Domenico Talia and Paolo Trunfio},
-  year={2025},
-  institution={University of Calabria}
+@inproceedings{Cantini2025NTMHEC,
+  author    = {Riccardo Cantini and Cristian Cosentino and Fabrizio Marozzo and Domenico Talia and Paolo Trunfio},
+  title     = {Neural topic modeling in social media by clustering latent hashtag representations},
+  booktitle = {28th European Conference on Artificial Intelligence, ECAI-25},
+  year      = {2025},
+  month     = {October},
+  note      = {To appear}
 }
 ```
 
