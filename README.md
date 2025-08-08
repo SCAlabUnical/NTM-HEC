@@ -87,8 +87,8 @@ This approach improves topic coherence, diversity, and robustness against lingui
 If you use this repository, please cite:
 
 ```bibtex
-@inproceedings{Cantini2025NTMHEC,
-  author    = {Riccardo Cantini and Cristian Cosentino and Fabrizio Marozzo and Domenico Talia and Paolo Trunfio},
+@inproceedings{cantini2025neural,
+  author    = {Cantini, Riccardo and Cosentino, Cristian and Marozzo, Fabrizio and Talia, Domenico and Trunfio, Paolo},
   title     = {Neural topic modeling in social media by clustering latent hashtag representations},
   booktitle = {28th European Conference on Artificial Intelligence, ECAI-25},
   year      = {2025},
@@ -101,7 +101,3 @@ If you use this repository, please cite:
 For any questions or collaborations, please contact:
 rcantini@dimes.unical.it
 cristian.cosentino@dimes.unical.it
-
-
-
-
